@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output files
+output/
+slides/
+*_slides/
+materials/
+
+# Generated Markdown files (but keep documentation)
+*.md
+!README.md
+!QUICKSTART.md
+!INSTALL.md
+!OPTIMIZATION.md
+!USAGE_EXAMPLES.md
+!AUTO_MODE.md
+!PROJECT_SUMMARY.md
+!BUGS.md
+
+# macOS
+.DS_Store
+
