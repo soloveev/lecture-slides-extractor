@@ -48,6 +48,7 @@ materials/
 !PROJECT_SUMMARY.md
 !BUGS.md
 !GITHUB_SETUP.md
+!PUSH_TO_GITHUB.md
 
 # macOS
 .DS_Store
